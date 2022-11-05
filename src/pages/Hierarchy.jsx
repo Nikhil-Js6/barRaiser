@@ -1,5 +1,5 @@
 import React from 'react'
-import Tree from '../components/mui/Tree'
+import Tree from '../components/muiTable/Tree'
 
 const Hierarchy = () => {
     return (
