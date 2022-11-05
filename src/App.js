@@ -13,6 +13,9 @@ function App() {
             <Route path="/employee/:name" element={
                 <User />
             }/>
+            <Route path="/tree" element={
+                <Hierarchy />
+            }/>
         </Routes>
     </Router>
   );
