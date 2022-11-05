@@ -2,6 +2,7 @@ import './app.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import UserList from './pages/EmployeeList';
 import User from './pages/Employee';
+import Hierarchy from './pages/Hierarchy';
 
 function App() {
   return (
